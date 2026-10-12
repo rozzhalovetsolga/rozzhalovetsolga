@@ -4,13 +4,13 @@
 
 **Стек:** SQL (PostgreSQL, ClickHouse) · Python (pandas, numpy) · Grafana · Git
 
-[Портфолио](https://rozzhalovetsolga.github.io/portfolio/) · [Резюме PDF](https://rozzhalovetsolga.github.io/portfolio/olga-resume-bigdata.pdf) · [Resume EN](https://rozzhalovetsolga.github.io/portfolio/olga-resume-bigdata-en.pdf) · [LinkedIn](https://www.linkedin.com/in/olga-rozzhalovets-52967a2a3) · [Telegram](https://t.me/bolik_olik) · oljadamovna@gmail.com
+[Портфолио](https://rozzhalovetsolga.github.io/portfolio/) · [Проекты на GitHub](https://github.com/rozzhalovetsolga/analyst_portfolio) · [Резюме PDF](https://rozzhalovetsolga.github.io/portfolio/olga-resume-bigdata.pdf) · [Resume EN](https://rozzhalovetsolga.github.io/portfolio/olga-resume-bigdata-en.pdf) · [LinkedIn](https://www.linkedin.com/in/olga-rozzhalovets-52967a2a3) · [Telegram](https://t.me/bolik_olik) · oljadamovna@gmail.com
 
 ## Проекты
 
 | # | Проект | Что сделано и что нашла | Статус | Стек |
 |---|---|---|---|---|
-| 1 | SQL-анализ маркетплейса Olist | ~100 тыс. заказов, 9 таблиц. Схема с ключами, проблемы качества данных (неуникальный ID отзывов, неполный справочник, дробление корзины). Опоздание отнимает 2 балла оценки из 5; настоящий repeat rate — 2,85%, а не 3,1%; двойной подсчёт при JOIN завышал выручку на 4–34%. | в работе, код будет опубликован | `PostgreSQL` `CTE` `оконные функции` |
+| 1 | [SQL-анализ маркетплейса Olist](https://github.com/rozzhalovetsolga/analyst_portfolio/tree/main/olist_sql) | ~100 тыс. заказов, 9 таблиц. Схема с ключами, проблемы качества данных (неуникальный ID отзывов, неполный справочник, дробление корзины). Опоздание отнимает 2 балла оценки из 5; настоящий repeat rate — 2,85%, а не 3,1%; двойной подсчёт при JOIN завышал выручку на 4–34%. | в работе | `PostgreSQL` `CTE` `оконные функции` |
 | 2 | [Атлас разводов](https://rozzhalovetsolga.github.io/divorce-atlas/) | Данные статслужб 2024–2025 (Белстат, Eurostat, US Census и др.): риск развода по стажу брака, корреляции, картограммы, интерактивная страница. В Беларуси 67 разводов на 100 свадеб. [Код и данные](https://github.com/rozzhalovetsolga/divorce-atlas) | завершён | `сбор данных` `визуализация` |
 | 3 | Дашборд по данным Olist | Динамика выручки, доставка и оценки по штатам, интерактивные фильтры | запланирован | `Power BI` |
 | 4 | Когорты, LTV и A/B-тест (iGaming) | Retention по когортам, LTV, анализ A/B-теста с приоритизацией гипотез | запланирован | `Python` `pandas` `scipy` `SQL` |
