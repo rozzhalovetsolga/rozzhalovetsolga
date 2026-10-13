@@ -4,7 +4,7 @@
 
 **Стек:** SQL (PostgreSQL, ClickHouse) · Python (pandas, numpy) · Grafana · Git
 
-[Портфолио](https://rozzhalovetsolga.github.io/portfolio/) · [Проекты на GitHub](https://github.com/rozzhalovetsolga/analyst_portfolio) · [Резюме PDF](https://rozzhalovetsolga.github.io/portfolio/olga-resume-bigdata.pdf) · [Resume EN](https://rozzhalovetsolga.github.io/portfolio/olga-resume-bigdata-en.pdf) · [LinkedIn](https://www.linkedin.com/in/olga-rozzhalovets-52967a2a3) · [Telegram](https://t.me/bolik_olik) · oljadamovna@gmail.com
+[Портфолио](https://rozzhalovetsolga.github.io/portfolio/) · [Проекты на GitHub](https://github.com/rozzhalovetsolga/analyst_portfolio) · [Резюме PDF](https://rozzhalovetsolga.github.io/portfolio/Rozzhalovets_Olga_Data_Analyst.pdf) · [Resume EN](https://rozzhalovetsolga.github.io/portfolio/Rozzhalovets_Olga_Data_Analyst_EN.pdf) · [LinkedIn](https://www.linkedin.com/in/olga-rozzhalovets-52967a2a3) · [Telegram](https://t.me/bolik_olik) · oljadamovna@gmail.com
 
 ## Проекты
 
